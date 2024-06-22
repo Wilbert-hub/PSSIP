@@ -1,0 +1,24 @@
+#my1
+{
+    text-align: center;
+}
+#my2
+{
+    font-style: italic;
+    color: green;
+    text-align: left;
+}
+#my3
+{
+    text-align: right;
+    text-decoration: underline;
+}
+#my4
+{
+    text-align: justify;
+    text-decoration: line-through;
+}
+
+.text-field {
+    margin-bottom: 1rem;
+  }
